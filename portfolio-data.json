@@ -1,0 +1,310 @@
+{
+  "hero": {
+    "badge": "Come Have a Look!",
+    "subtitle": "IT Support Professional → Management, Consulting & Operations",
+    "prose": "Hello World. This is my small professional pocket of curiosities. Enjoy interacting with all the features as you learn about myself — then we can explore how I can meet your IT service delivery and support needs.\n\nPS: You can toggle between light and dark mode on the top right corner. Happy scrolling !"
+  },
+  "contact": {
+    "email": "rbnmugambi@gmail.com",
+    "linkedin": "https://linkedin.com/in/rbnmugambi",
+    "phone": "+254745061881"
+  },
+  "tools": [
+    {
+      "icon": "☁️",
+      "name": "Microsoft 365",
+      "category": "Cloud Admin",
+      "description": "User administration, licensing, Exchange, SharePoint, and Teams management across global environments.",
+      "color1": "#6b7fd4",
+      "color2": "#a78bca"
+    },
+    {
+      "icon": "🔐",
+      "name": "Microsoft Entra ID",
+      "category": "IAM",
+      "description": "Identity & Access Management — user provisioning, conditional access, group policies, and SSO.",
+      "color1": "#a78bca",
+      "color2": "#c97ea8"
+    },
+    {
+      "icon": "📱",
+      "name": "Microsoft Intune",
+      "category": "Endpoint Mgmt",
+      "description": "Mobile Device Management, endpoint compliance policies, and remote software deployment.",
+      "color1": "#7ec8e3",
+      "color2": "#6b7fd4"
+    },
+    {
+      "icon": "🖥️",
+      "name": "NinjaOne RMM",
+      "category": "RMM",
+      "description": "Remote monitoring and management — device oversight, patch management, and software deployments.",
+      "color1": "#6b7fd4",
+      "color2": "#7ec8e3"
+    },
+    {
+      "icon": "🎫",
+      "name": "Freshservice",
+      "category": "ITSM",
+      "description": "L1/L2 helpdesk ticketing — incident triage, SLA management, and resolution documentation.",
+      "color1": "#c97ea8",
+      "color2": "#a78bca"
+    },
+    {
+      "icon": "📖",
+      "name": "IT Glue",
+      "category": "Documentation",
+      "description": "IT documentation management — credentials, SOPs, troubleshooting guides, and asset records.",
+      "color1": "#a78bca",
+      "color2": "#7ec8e3"
+    },
+    {
+      "icon": "🌐",
+      "name": "Google Workspace",
+      "category": "Collaboration",
+      "description": "Led full migration to Google Workspace — Gmail, Drive, Docs, and Calendar administration.",
+      "color1": "#7ec8e3",
+      "color2": "#6b7fd4"
+    },
+    {
+      "icon": "🗂️",
+      "name": "Active Directory",
+      "category": "Infrastructure",
+      "description": "On-premise IAM — user provisioning, group policies, OU management, and access controls.",
+      "color1": "#6b7fd4",
+      "color2": "#a78bca"
+    },
+    {
+      "icon": "📊",
+      "name": "Salesforce",
+      "category": "Asset Mgmt",
+      "description": "IT asset tracking and reporting — managing hardware lifecycle across multiple offices.",
+      "color1": "#7ec8e3",
+      "color2": "#6b7fd4"
+    },
+    {
+      "icon": "🔒",
+      "name": "Genetec Security",
+      "category": "Security",
+      "description": "Physical security administration — access controls and security system management.",
+      "color1": "#c97ea8",
+      "color2": "#a78bca"
+    },
+    {
+      "icon": "💬",
+      "name": "Microsoft Teams",
+      "category": "Collaboration",
+      "description": "Deployment, administration, and user training for collaborative communication platforms.",
+      "color1": "#a78bca",
+      "color2": "#6b7fd4"
+    },
+    {
+      "icon": "🔧",
+      "name": "Hardware & Endpoints",
+      "category": "Hardware",
+      "description": "Configuration, testing, troubleshooting, and maintenance of laptops, workstations, and AV equipment.",
+      "color1": "#6b7fd4",
+      "color2": "#c97ea8"
+    }
+  ],
+  "timeline": [
+    {
+      "emoji": "🚀",
+      "company": "Service Park",
+      "company2": "Technologies",
+      "year": "2026",
+      "date": "Feb 2026 – Present",
+      "role": "IT Support Technician (Intern)",
+      "fullCompany": "Service Park Technologies · Nairobi",
+      "color1": "#6b7fd4",
+      "color2": "#a78bca",
+      "bullets": [
+        "Administer Microsoft 365, Entra ID & Intune — end-to-end onboarding of UK users, monitoring 39 workstations",
+        "NinjaOne RMM endpoint management — configured 12 laptops, MSP-coordinated deployments",
+        "Resolved 84% of Freshservice tickets independently; all logged in IT Glue",
+        "Vendor coordination: printing, AV, ISP & physical security",
+        "IT asset tracking via Salesforce across Africa & UK offices"
+      ]
+    },
+    {
+      "emoji": "🏛️",
+      "company": "KNCHR",
+      "company2": "",
+      "year": "2025",
+      "date": "Aug 2025 – Feb 2026",
+      "role": "ICT Support Volunteer",
+      "fullCompany": "Kenya National Commission on Human Rights · Nairobi",
+      "color1": "#c97ea8",
+      "color2": "#a78bca",
+      "bullets": [
+        "IAM operations — user provisioning, access controls, Active Directory admin",
+        "IT incident log: 65 incidents over 7 months, 82-min avg. MTTR",
+        "Built ITIL-aligned ICT Knowledge Library for onboarding & operations",
+        "L1/L2 support for 50+ end users; zero downtime on 67% of incidents"
+      ]
+    },
+    {
+      "emoji": "⚡",
+      "company": "Zenevan",
+      "company2": "Consulting",
+      "year": "2022",
+      "date": "Mar 2022 – Jul 2024",
+      "role": "IT Officer",
+      "fullCompany": "Zenevan Consulting · Nairobi",
+      "color1": "#7ec8e3",
+      "color2": "#6b7fd4",
+      "bullets": [
+        "57% improvement in operational efficiency across IT infrastructure",
+        "Led full Google Workspace migration — streamlining org-wide collaboration",
+        "Reduced incident resolution time by 32% through dashboard monitoring",
+        "Led cross-functional teams on digital transformation & GRC initiatives"
+      ]
+    },
+    {
+      "emoji": "🔌",
+      "company": "IET",
+      "company2": "",
+      "year": "2021",
+      "date": "Feb 2021 – Apr 2021",
+      "role": "IT Intern",
+      "fullCompany": "International Energy Technik · Nairobi",
+      "color1": "#a78bca",
+      "color2": "#c97ea8",
+      "bullets": [
+        "Hardware configuration & inter-departmental network troubleshooting",
+        "Developed procedural documentation & staff training materials",
+        "Conducted peer reviews & proposed system optimizations"
+      ]
+    },
+    {
+      "emoji": "🧑",
+      "company": "Prodapt ",
+      "company2": "",
+      "year": "",
+      "date": "Soon-Future Tense ",
+      "role": "Data Scientist",
+      "fullCompany": "Prodapt Technologies - Nairobi",
+      "color1": "#7ec8e3",
+      "color2": "#6b7fd4",
+      "bullets": [
+        "Blah",
+        "Blah Blah",
+        "Blah Blah Blah "
+      ]
+    }
+  ],
+  "skills": [
+    {
+      "icon": "☁️",
+      "group": "Microsoft Cloud & Endpoint",
+      "tags": [
+        "Microsoft 365 Admin",
+        "Microsoft Entra ID",
+        "Microsoft Intune",
+        "Endpoint Policy",
+        "Device Compliance"
+      ]
+    },
+    {
+      "icon": "🖥️",
+      "group": "RMM & Patch Management",
+      "tags": [
+        "NinjaOne RMM",
+        "OS Patch Management",
+        "Third-Party App Updates",
+        "Remote Deployment"
+      ]
+    },
+    {
+      "icon": "🎫",
+      "group": "ITSM & Service Desk",
+      "tags": [
+        "Freshservice",
+        "IT Glue",
+        "L1/L2 Support",
+        "Incident Management",
+        "SLA Monitoring"
+      ]
+    },
+    {
+      "icon": "🔐",
+      "group": "Infrastructure & Security",
+      "tags": [
+        "Active Directory",
+        "IAM",
+        "Genetec Access Controls",
+        "Network Troubleshooting",
+        "GRC"
+      ]
+    },
+    {
+      "icon": "💬",
+      "group": "Collaboration & Productivity",
+      "tags": [
+        "Microsoft Teams",
+        "Google Workspace",
+        "Outlook",
+        "Slack",
+        "Box"
+      ]
+    },
+    {
+      "icon": "📊",
+      "group": "Operations & Management",
+      "tags": [
+        "Salesforce Reporting",
+        "IT Asset Tracking",
+        "ITIL Best Practices",
+        "Agile Project Mgmt",
+        "Business Process Analysis"
+      ]
+    }
+  ],
+  "certifications": [
+    {
+      "icon": "📘",
+      "name": "Kaseya Certified Technician",
+      "description": "IT Glue documentation & asset management specialist certification."
+    },
+    {
+      "icon": "🌐",
+      "name": "Cisco Operating Systems Support",
+      "description": "Foundational networking and operating systems support from Cisco."
+    },
+    {
+      "icon": "🤖",
+      "name": "Oracle AI Foundations Associate",
+      "description": "Core AI and machine learning concepts certified by Oracle."
+    },
+    {
+      "icon": "📋",
+      "name": "Introduction to ITIL V4",
+      "description": "IT service management best practices aligned to ITIL V4 Foundation."
+    },
+    {
+      "icon": "✅",
+      "name": "Asana Workflow Specialist",
+      "description": "Project and workflow automation expertise certified by Asana."
+    },
+    {
+      "icon": "💻",
+      "name": "ICT Competence Certificate",
+      "description": "Certified competency across core information and communications technology."
+    },
+    {
+      "icon": "📈",
+      "name": "Digital Marketing Masterclass",
+      "description": "Comprehensive digital marketing strategy and execution certification."
+    },
+    {
+      "icon": "🏆",
+      "name": "Leadership & Professional Dev.",
+      "description": "Certified programme in leadership skills and professional development."
+    },
+    {
+      "icon": "🎓",
+      "name": "BSc Business Info. Technology",
+      "description": "Strathmore University — 2nd Class Upper Honours. Coursework: Networks, BI, IS Auditing, Systems Analysis."
+    }
+  ]
+}
