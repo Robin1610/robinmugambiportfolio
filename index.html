@@ -827,11 +827,13 @@ var BUILTIN={
   ]
 };
 
-loadFromData(BUILTIN);
-fetch('portfolio-data.json')
+fetch('portfolio-data.json?v=' + Date.now())
   .then(function(r){return r.ok?r.json():Promise.reject();})
   .then(function(d){loadFromData(d);})
-  .catch(function(){});
+  .catch(function(){
+    console.warn('Using fallback data');
+    loadFromData(BUILTIN);
+  });
 </script>
 </body>
 </html>
